@@ -3,11 +3,12 @@
 I build back-end API & infrastructure with JavaScript (TypeScript) & AWS.
 
 foggy_tenpin.02@icloud.com
+
 *[Auto-generated email for security purposes]*
 
-Links
-https://www.linkedin.com/in/aldenvallestero/
-https://github.com/aldenvallestero/
+### 🔗 Links
+- https://www.linkedin.com/in/aldenvallestero/
+- https://github.com/aldenvallestero/
 
 ### 🚀 Recent Projects
 **Collabera Digital**, 2022 - 2023 🇵🇭
