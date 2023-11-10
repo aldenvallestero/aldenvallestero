@@ -48,3 +48,8 @@ Best Thesis 2019: “Project MARIA”. MARIA stands for Marilao River Analysis u
 
 ### 🍳 Skills
 ```JavaScript```, ```TypeScript```, ```ReactJS```, ```NodeJS```, ```ExpressJS```, ```Serverless```, ```Database```, ```SQL```, ```NoSQL```, ```AWS```, ```GCP```, ```Firebase```, ```REST```, ```GraphQL```, ```Kafka```, ```Unit Testing```, ```CI/CD```, ```AGILE (SCRUM & KANBAN)```
+
+### ⚽️ Outside Technology
+🎧 I listen to business & investing topics.
+🎹 I play guitar and piano.
+🫶 Talk to parents & meet my love.
