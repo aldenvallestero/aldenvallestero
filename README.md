@@ -9,8 +9,7 @@ foggy_tenpin.02@icloud.com
 - [LinkedIn](https://www.linkedin.com/in/aldenvallestero/)
 
 ### 🚀 Recent Projects
-**Collabera Digital**, 2022 - 2023 🇵🇭
-Lead API Developer
+**Lead API Developer @ Collabera Digital**, 2022 - 2023 🇵🇭
 - I led the back-end team for integrating a trading platform to the built app and serve seamless experience when buying digital assets.
 I converted the payments & transfers micro-services into serverless that reduced the processes and speed up the system.
 
@@ -28,18 +27,15 @@ Senior Full-Stack Developer
 Clean up ReactJS & NestJS systems to run the app smoothly and less bugs.
 Migrate database changes using TypeORM library based on the requirements.
 
-**Simple Cloudology**, 2021-2022 🇺🇸
-API Developer @ Givers USA
-I built the back-end of Givers Financial Technology including the integration of MasterCard & VISA delivery system, wallet service, referral program, analytics, and customer relation management.
+**API Developer @ Simple Cloudology**, 2021-2022 🇺🇸
+I built the back-end for **Givers Financial Technology USA** including the integration of MasterCard & VISA delivery system, wallet service, referral program, analytics, and customer relation management.
 
-**Fresh Connections / HekTek Digital**, 2019-2021 🇺🇸
-Full Stack Developer
-I built retails website for USA clients allowing customers to sell their products and services. I used NodeJS to manage business logics back-end and ReactJS to create web apps.
-Business & Customer records are all stored in a Firestore NoSQL database.
+**Full Stack Developer @ Fresh Connections / HekTek Digital**, 2019-2021 🇺🇸
+- I built retails website for USA clients allowing customers to sell their products and services. I used NodeJS to manage business logics back-end and ReactJS to create web apps.
+- Business & Customer records are all stored in a Firestore NoSQL database.
 
-**ACLC College**, 2019-2021 🇵🇭
-Computer Science Instructor
-I built retails website for USA clients allowing customers to sell their products and services. I used NodeJS to manage business logics back-end and ReactJS to create web apps.
+**Computer Science Instructor @ ACLC College**, 2019-2021 🇵🇭
+- Taught Object-Oriented Programming & Software Engineering.
 
 ### 📚 Education
 **Bachelor of Science in Computer Science**, ACLC College
@@ -50,6 +46,6 @@ Best Thesis 2019: “Project MARIA”. MARIA stands for Marilao River Analysis u
 ```JavaScript```, ```TypeScript```, ```ReactJS```, ```NodeJS```, ```ExpressJS```, ```Serverless```, ```Database```, ```SQL```, ```NoSQL```, ```AWS```, ```GCP```, ```Firebase```, ```REST```, ```GraphQL```, ```Kafka```, ```Unit Testing```, ```CI/CD```, ```AGILE (SCRUM & KANBAN)```
 
 ### ⚽️ Outside Technology
-🎧 I listen to business & investing topics.
-🎹 I play guitar and piano.
-🫶 Talk to parents & meet my love.
+- 🎧 I listen to business & investing topics.
+- 🎹 I play guitar and piano.
+- 🫶 Talk to parents & meet my love.
