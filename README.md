@@ -9,15 +9,24 @@ foggy_tenpin.02@icloud.com
 
 ### 🚀 Recent Project
 **Lead API Developer @ Collabera Digital**, 2022 - 2023 🇵🇭
-At UnionDigital Bank, I supported the back-end team, integrating a crypto exchange for smoother trading experiences. We cut costs and boosted response times by transitioning payment services to a serverless setup. Ensuring robust security for money transfers via code reviews, I managed Lambda functions and implemented SQS for efficient cash transfer updates across channels. I also set up SNS for automated customer notifications and streamlined build monitoring using Jenkins and Bitbucket CI/CD workflows. Created high coverage unit tests to reduce production issues.
+- Led Agile (SCRUM) standup meetings to tackle pending, in progress, blocked, and accomplished tasks to formulate findings and refine the project sprint goals with project manager & product owner.
+- Led the back-end team for crypto exchange integration in UnionDigital Bank.
+- Performed Unit Test to financial service APIs preventing service operation errors.
+- Converted the payments & transfers service to serverless which allows the future of digital banking to me more scalable, cost-friendly and fast.
+- Participated in product code reviews using BitBucket and Jira.
+- Contributed multiple-security measures for money transfers.
+- Managed cash transfers, bills payment and loans acceptance services.
+- Managed AWS resources for development & UAT products.
+- Monitors latest build using Jenkins and transformed into Bitbucket pipeline to reduce redundancy.
 
-### 📚 Education
-**Bachelor of Science in Computer Science**, ACLC College
-2015-2019
-Best Thesis 2019: “Project MARIA”. MARIA stands for Marilao River Analysis using Internet of Things (IoT) and Machine Learning Models. I led the team in conducting time series forecast of water quality in real-time using Python ML libraries including Pandas & Scikit-Learn.
+### ✨ Career Highlights
+- Led the development of FinTech start up in USA.
+- Led the integration of Crypto Exchange in a digital bank.
+- Led the serverless transition of payments & transfers service in a digital bank.
+- Led SCRUM stand up meetings.
 
 ### 🍳 Skills
-```JavaScript```, ```TypeScript```, ```ReactJS```, ```NodeJS```, ```ExpressJS```, ```Serverless```, ```Database```, ```SQL```, ```NoSQL```, ```AWS```, ```GCP```, ```Firebase```, ```REST```, ```GraphQL```, ```Kafka```, ```Unit Testing```, ```CI/CD```, ```AGILE (SCRUM & KANBAN)```
+```JavaScript``` ```TypeScript``` ```ReactJS``` ```NodeJS``` ```ExpressJS``` ```Serverless``` ```Database``` ```SQL``` ```NoSQL``` ```AWS``` ```GCP``` ```AZURE``` ```Firebase``` ```REST``` ```GraphQL``` ```Kafka``` ```Redis``` ```Unit Testing``` ```CI/CD``` ```AGILE (SCRUM & KANBAN)``` ```Project Management```
 
 ### ⚽️ Outside Technology
 - 🎧 I listen to business & investing topics.
