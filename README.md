@@ -1,11 +1,17 @@
 # ALDEN VALLESTERO
 
-I build back-end API & infrastructure with JavaScript (TypeScript) & AWS.
+I build cloud-based applications using JavaScript and Azure.
 
 foggy_tenpin.02@icloud.com
 *[Auto-generated email for security purposes]*
 
 ### [🔗 LinkedIn](https://www.linkedin.com/in/aldenvallestero/)
+
+### ✨ Career Highlights
+- Led the development of FinTech start up in USA.
+- Led the integration of Crypto Exchange in a digital bank.
+- Led the serverless transition of payments & transfers service in a digital bank.
+- Led SCRUM stand up meetings.
 
 ### 🚀 Recent Project
 **Lead API Developer @ Collabera Digital**, 2022 - 2023 🇵🇭
@@ -19,14 +25,8 @@ foggy_tenpin.02@icloud.com
 - Managed AWS resources for development & UAT products.
 - Monitors latest build using Jenkins and transformed into Bitbucket pipeline to reduce redundancy.
 
-### ✨ Career Highlights
-- Led the development of FinTech start up in USA.
-- Led the integration of Crypto Exchange in a digital bank.
-- Led the serverless transition of payments & transfers service in a digital bank.
-- Led SCRUM stand up meetings.
-
 ### 🍳 Skills
-```JavaScript``` ```TypeScript``` ```ReactJS``` ```NodeJS``` ```ExpressJS``` ```Serverless``` ```Database``` ```SQL``` ```NoSQL``` ```AWS``` ```GCP``` ```AZURE``` ```Firebase``` ```REST``` ```GraphQL``` ```Kafka``` ```Redis``` ```Unit Testing``` ```CI/CD``` ```AGILE (SCRUM & KANBAN)``` ```Project Management```
+```JavaScript``` ```TypeScript``` ```ReactJS``` ```NodeJS``` ```ExpressJS``` ```Serverless``` ```Database``` ```SQL``` ```NoSQL``` ```AWS``` ```GCP``` ```AZURE & Terraform``` ```Firebase``` ```REST``` ```GraphQL``` ```Kafka``` ```Redis``` ```Unit Testing``` ```CI/CD``` ```AGILE (SCRUM & KANBAN)``` ```Project Management```
 
 ### ⚽️ Outside Technology
 - 🎧 I listen to business & investing topics.
