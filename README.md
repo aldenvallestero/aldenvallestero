@@ -26,7 +26,7 @@ foggy_tenpin.02@icloud.com
 - Monitors latest build using Jenkins and transformed into Bitbucket pipeline to reduce redundancy.
 
 ### 🍳 Skills
-```JavaScript``` ```TypeScript``` ```ReactJS``` ```NodeJS``` ```ExpressJS``` ```Serverless``` ```Database``` ```SQL``` ```NoSQL``` ```AWS``` ```GCP``` ```AZURE & Terraform``` ```Firebase``` ```REST``` ```GraphQL``` ```Kafka``` ```Redis``` ```Unit Testing``` ```CI/CD``` ```AGILE (SCRUM & KANBAN)``` ```Project Management```
+```JavaScript``` ```TypeScript``` ```ReactJS``` ```NodeJS``` ```ExpressJS``` ```NestJS``` ```Serverless``` ```Database``` ```SQL``` ```NoSQL``` ```Sequelize``` ```Prisma``` ```AWS``` ```GCP``` ```AZURE & Terraform``` ```Firebase``` ```REST``` ```GraphQL``` ```Kafka``` ```RabbitMQ``` ```Redis``` ```Unit Testing``` ```CI/CD``` ```AGILE (SCRUM & KANBAN)``` ```Project Management```
 
 ### ⚽️ Outside Technology
 - 🎧 I listen to business & investing topics.
